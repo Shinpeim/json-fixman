@@ -1,24 +1,4 @@
-# Json::Fixman
-
-TODO: Write a gem description
-
-## Installation
-
-Add this line to your application's Gemfile:
-
-    gem 'json-fixman'
-
-And then execute:
-
-    $ bundle
-
-Or install it yourself as:
-
-    $ gem install json-fixman
-
-## Usage
-
-TODO: Write usage instructions here
+THIS MODULE IS DEPRECATED. USE jsonpatcher INSTEAD.
 
 ## Contributing
 
